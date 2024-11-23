@@ -21,4 +21,4 @@ public class TriangleArea {
     System.out.println("The area is"+ area+".");
     
 }
-Math.sqrt((Math.pow(x,5)-6)/4);}
+Math.sqrt((Math.pow(x,5)-6)/4);
